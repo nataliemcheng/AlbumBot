@@ -5,3 +5,5 @@ An exercise to practice prompt engineering and natural language processing (NLP)
 
 (Note: To not exceed the API quota, there is a mock function. However testing this on Jupyter Notebooks
 provides the desired output.)
+
+View the demo here: https://youtu.be/hT-W-vtv78o 
